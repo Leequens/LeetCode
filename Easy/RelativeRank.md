@@ -3,7 +3,7 @@
 
 (注：分数越高的选手，排名越靠前。)
 # 编程实现：
-```
+```C++
 class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& nums)
