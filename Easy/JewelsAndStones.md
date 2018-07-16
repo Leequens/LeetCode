@@ -3,6 +3,7 @@
 
 J 中的字母不重复，J 和 S中的所有字符都是字母。字母区分大小写，因此"a"和"A"是不同类型的石头。
 # 编程实现:
+```C++
 class Solution {
 public:
     int numJewelsInStones(string J, string S)
